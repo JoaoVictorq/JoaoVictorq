@@ -1,4 +1,4 @@
-## Olá, me chamo João Victor e atualmente sou um estudante de Desenvolvimento de Software, com foco em aprimorar minhas habilidades técnicas e expandir meus conhecimento em programação.
+## Olá, me chamo João Victor, sou profissional em desenvolvimento de sistemas e atuo com HTML, CSS, Javascript, React, UX e UI. Estou sempre em buisca de aprimorar minhas habilidades técnicas, além de expandir meus conhecimentos tanto na programação quanto no desenvolvimento pessoal.
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
